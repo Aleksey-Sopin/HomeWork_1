@@ -1,6 +1,7 @@
 @import url(normolize.css);
 @import url(fonts.css);
 html, body{
+     overflow-x: hidden;
     font-family: "Lato-Regular", sans-serif;
     font-style: normal;
 }
